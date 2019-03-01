@@ -1,0 +1,11 @@
+[package]
+name = "rust-benchmark"
+version = "0.1.0"
+edition = "2018"
+rust-version = "1.32.0"
+
+[[bin]]
+name = "fibonacci"
+path = "src/fibonacci.rs"
+
+[dependencies]

@@ -1,0 +1,13 @@
+# Go
+go/*.exe
+go/*.test
+go/*.out
+
+# Rust  
+rust/target/
+rust/**/*.rs.bk
+rust/Cargo.lock
+
+# General
+*.log
+.DS_Store
